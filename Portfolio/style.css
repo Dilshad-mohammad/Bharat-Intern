@@ -81,7 +81,7 @@ p {
     margin-right: 10px;
     margin-top: 40px;
 }
-.butn:hover{
+#butn:hover{
     opacity: 50%;
 }
 .righthome img {
